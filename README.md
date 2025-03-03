@@ -1,3 +1,6 @@
+# What is this?
+This is a frok of the Compulab Linux repository, containing a branch made just for us, that enables some kernel modules (mostly CONFIG_NFT_COUNTER) for compatibility with the Avassa Edge Enforcer. Compulab said that they would keep this branch, until the end of 2025, so it has been forked here, so that we can always have it. 
+
 # Kernel Build Manual
 
 ## Prerequisites
